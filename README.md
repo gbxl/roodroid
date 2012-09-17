@@ -13,7 +13,7 @@ Features
 - Two modes : Server or Client
 - Two connection modes : Bluetooth and wifi
 - Server settings (SMS limit, password...)
-- Incoming sms smartly routed
+- Incoming SMS smartly routed
 - Built-in conversation view
 - Log management
 
